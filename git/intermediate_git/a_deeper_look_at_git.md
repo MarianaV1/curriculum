@@ -83,6 +83,7 @@ This would allow us to edit the typo in the `Create send file` commit to be `Cre
 git commit --amend
 ```
 
+Remember to save the file before exiting.
 The command above will allow you to amend the commit. Once you're satisfied with your changes, you can complete the rebase with the following:
 
 ```bash
